@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-   <a href="https://github.com/zdn-dev"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=zdn-dev"> 
+   <a href="https://github.com/zdn-dev"> <img alt="Zahriddin github" src="https://visitor-badge.glitch.me/badge?page_id=zdn-dev"> 
    </a>
 </p>
  
