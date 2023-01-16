@@ -82,25 +82,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/apollo.png" width="48" height="48" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
-  </tr>
-
-
-  <tr>
-  <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/my-sql.png" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redis.png" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
     </td>
   </tr>
   
